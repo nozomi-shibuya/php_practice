@@ -30,8 +30,9 @@ $world = "‘s World!";
 echo $hello.$name.$world . "\n";
 ?>
 <?php
-$techboost = "techboost";
-echo $techboost ."\n";
+$tech_boost = "tech";
+$tech_boost .= "boost";
+echo $tech_boost ."\n";
 ?>
 <?php
 $array_calendar = [
